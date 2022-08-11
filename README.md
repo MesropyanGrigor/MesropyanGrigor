@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Grigor Mesropyan and I am a Software Developer.
+
+My most used labguages are Python, C++.
 
  📫 How to reach me:
 - > LinkedIn : [Grigor Mesropyan](https://www.linkedin.com/in/mgrgm/)
