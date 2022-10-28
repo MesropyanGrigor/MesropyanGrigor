@@ -4,7 +4,7 @@ I am Grigor Mesropyan and I am a Software Developer.
 
 My technology  stack is following:
  - languages - Python, C++, golang
- - Framworks - Django, Flask, boto3, pymongo, motor, async, starlette
+ - Frameworks - Django, Flask, boto3, pymongo, motor, async, starlette
  - technolgies - mongo, RabitMQ, docker, nomad, git, AWS
 
  📫 How to reach me:
