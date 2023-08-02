@@ -10,6 +10,9 @@ My technology  stack is following:
  📫 How to reach me:
 - > LinkedIn : [Grigor Mesropyan](https://www.linkedin.com/in/mgrgm/)
 
+
+  🤝   I'm looking to collaborate on Open Source projects
+
 <!--
 **MesropyanGrigor/MesropyanGrigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
